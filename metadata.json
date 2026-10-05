@@ -1,0 +1,8 @@
+{
+  "name": "CricPulse - Live Cricket Scores, Stats & Community",
+  "description": "Real-time cricket scores, live ball-by-ball commentary, player statistics, fan discussion forum, interactive leaderboard, and personalized team tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
